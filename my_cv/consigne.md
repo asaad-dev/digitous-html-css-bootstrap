@@ -1,0 +1,14 @@
+### CONSIGNE
+- Reproduire le CV de Noémie Martin (changer les informations et la photo pour qu'elles correspondent à VOTRE profil)
+- Tenter de se rapprocher le plus possible du design présenté ci-dessus
+- Utiliser du HTML sémantique (on choisit bien ses balises, pour qu'elles aient du sens)
+- Créer un fichier CSS externe (à importer dans le fichier HTML)
+- Utiliser le système de flexbox en CSS pour rendre la page responsive facilement
+- Le bleu utilisé correspond au "Bleu Konexio" : `#0475ba`
+- L'espace entre le texte et la bordure de chaque boîte est de `40px`
+- La barre de navigation fait `70px` de hauteur
+- Utiliser l'unité `em` ou `rem` pour le texte plutôt que `px`
+- Créer des ancres pour que les liens de navigation amènent à la bonne section
+- La photo du CV (une photo de vous idéalement !) fait `150px` de hauteur et de largeur
+- Utiliser la librairie Font Awesome pour les icônes du footer
+- Utiliser la police de caractère `Poppins` pour le texte
